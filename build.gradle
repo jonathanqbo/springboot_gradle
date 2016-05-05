@@ -18,5 +18,6 @@ sourceCompatibility = 1.8
 targetCompatibility = 1.8
 
 dependencies {
+	compile("org.springframework.boot:spring-boot-starter-web:1.3.3.RELEASE")
 }
 // end::dependencies[]
